@@ -1,0 +1,43 @@
+{
+   "coord": {
+      "lon": 52.5388,
+      "lat": 29.6036
+   },
+   "weather": [
+      {
+         "id": 721,
+         "main": "Haze",
+         "description": "\u043c\u0433\u043b\u0430",
+         "icon": "50n"
+      }
+   ],
+   "base": "stations",
+   "main": {
+      "temp": 10.69,
+      "feels_like": 9.02,
+      "temp_min": 10.69,
+      "temp_max": 10.69,
+      "pressure": 1021,
+      "humidity": 46
+   },
+   "visibility": 5000,
+   "wind": {
+      "speed": 0,
+      "deg": 0
+   },
+   "clouds": {
+      "all": 0
+   },
+   "dt": 1670941039,
+   "sys": {
+      "type": 1,
+      "id": 7500,
+      "country": "IR",
+      "sunrise": 1670901354,
+      "sunset": 1670938324
+   },
+   "timezone": 12600,
+   "id": 115019,
+   "name": "\u0428\u0438\u0440\u0430\u0437",
+   "cod": 200
+}
