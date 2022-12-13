@@ -1,0 +1,1306 @@
+{
+   "status": "ok",
+   "totalResults": 7471,
+   "articles": [
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Jon Porter",
+         "title": "Tuesday\u2019s top tech news: The law comes for Bankman-Fried",
+         "description": "FTX\u2019s co-founder Sam Bankman-Fried has been arrested, we\u2019re expecting an a \u201cscientific breakthrough\u201d in the development of fusion energy, and Tim Cook has confirmed that the iPhone uses Sony camera sensors.",
+         "url": "https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/F5-vQfriDY9GUJaNV6oeWRwkYWg=/0x0:1600x1046/1200x628/filters:focal(688x463:689x464)/cdn.vox-cdn.com/uploads/chorus_asset/file/24288018/1245273681.jpg",
+         "publishedAt": "2022-12-13T10:01:00Z",
+         "content": "FTX co-founder Sam Bankman-Fried, who\u2019s been arrested. | Matias J. Ocner/Miami Herald/Tribune News Service via Getty Images\r\n\n \n\n And an important fusion energy announcement is expected later today. \u2026 [+1260 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "BBC 100 Women marks 10th year with focus on progress",
+         "description": "The innovative BBC season reflects on a decade of change in a tumultuous year which has seen women taking centre stage.",
+         "url": "https://www.bbc.co.uk/news/world-63863089",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8461/production/_127898833_image005.jpg",
+         "publishedAt": "2022-12-06T01:36:17Z",
+         "content": "A front-line medic in Ukraine and an anonymous Iranian protester are among those recognised in the BBC 100 Women 2022 list.\r\nThe season features the female faces that have dominated international hea\u2026 [+2170 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "World Cup 2022: Croatia v Brazil - Tite won't apologise for his players dancing",
+         "description": "Brazil coach Tite says he will not apologise to those who \"do not know Brazilian history and culture\" after criticism of his players for dancing after scoring goals at the World Cup.",
+         "url": "https://www.bbc.co.uk/sport/football/63830320",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/E5B3/production/_127930885_tite.jpg",
+         "publishedAt": "2022-12-08T13:40:00Z",
+         "content": "<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BBC TV, BBC iPlayer, BBC Radio 5 Live, BBC Sounds and the BBC Sport website and ap\u2026 [+4018 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Umar Patek: Anger and fear in Australia as Bali bomber freed",
+         "description": "Survivors of the 2002 attacks tell the BBC they don't believe Umar Patek has been deradicalised.",
+         "url": "https://www.bbc.co.uk/news/world-australia-63883431",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17216/production/_127924749_gettyimages-146616522.jpg",
+         "publishedAt": "2022-12-08T03:15:52Z",
+         "content": "After the deadly bombings on two Bali nightclubs in 2002, some survivors say they got a \"life sentence\".\r\n\"My life changed forever,\" Australian man Andrew Csabi told the BBC.\r\nOn Wednesday, the man w\u2026 [+2107 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Game of Thrones visits Game of Cones ice creamery",
+         "description": "The Mother of Dragons Emilia Clarke visits ice cream shop Game of Cones in Cornwall.",
+         "url": "https://www.bbc.co.uk/news/uk-england-cornwall-63748926",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D384/production/_127784145_mediaitem127784144.jpg",
+         "publishedAt": "2022-11-25T15:36:37Z",
+         "content": "A Game of Thrones fan and ice cream shop owner was \"gobsmacked\" when his store received a visit from a star of the show.\r\nEmilia Clarke, who plays Daenerys Targaryen in the hit television series, vis\u2026 [+1427 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Millions of lives under threat in Ukraine this winter - WHO",
+         "description": "Millions are at risk as winter sets in as many are without power, a WHO official warns.",
+         "url": "https://www.bbc.co.uk/news/world-europe-63708223",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DC7/production/_127732670_mediaitem127732666.jpg",
+         "publishedAt": "2022-11-21T17:53:12Z",
+         "content": "The lives of millions will be under threat in Ukraine this winter, the World Health Organization says. \r\nHalf of Ukraine's energy infrastructure is either damaged or destroyed, and 10 million are cur\u2026 [+3213 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "ESA mulls Solaris plan to beam solar energy from space",
+         "description": "The European Space Agency is considering the 'Solaris Initiative' plan to collect solar energy in orbit and beaming electricity back to Earth.",
+         "url": "https://www.bbc.co.uk/news/science-environment-62982113",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6017/production/_126799542_beaming2.png",
+         "publishedAt": "2022-11-22T01:00:43Z",
+         "content": "Space chiefs are to investigate whether electricity could be beamed wirelessly from space into millions of homes.\r\nThe European Space Agency will this week likely approve a three-year study to see if\u2026 [+5032 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Iran protests: Armed Met Police guard Iranian journalists facing death threats",
+         "description": "Police vehicles guard British-based journalists facing death threats for reporting on protests in Iran.",
+         "url": "https://www.bbc.co.uk/news/uk-63761628",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16218/production/_127784609_mediaitem127784608.jpg",
+         "publishedAt": "2022-11-25T16:46:12Z",
+         "content": "In a tree-lined business park in Chiswick, West London, there is a heavy presence of armed police. Black, multi-role armoured vehicles called Jankels are positioned at intervals alongside Met Police \u2026 [+4238 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "North Korea's leader Kim reveals his daughter in rare appearance",
+         "description": "North Korea's leader stood hand-in-hand with the girl during a ballistic missile test on Friday.",
+         "url": "https://www.bbc.co.uk/news/world-asia-63685497",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED75/production/_127698706_2bfc93c84f11f25d1219b4d4b936d4385db0b4eb0_0_4252_28164252x2816.jpg",
+         "publishedAt": "2022-11-19T04:32:10Z",
+         "content": "North Korea's leader Kim Jong-un has appeared with his young daughter in public for the first time, confirming long-rumoured reports of her existence.\r\nThe girl, believed to be named Kim Chu-ae, join\u2026 [+2108 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Gold coin proves 'fake' Roman emperor was real",
+         "description": "The coin bearing the name of Sponsian was considered apocryphal and had been locked away in a museum cupboard.",
+         "url": "https://www.bbc.co.uk/news/science-environment-63636641",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/426C/production/_127640071_coin1.jpg",
+         "publishedAt": "2022-11-24T00:47:20Z",
+         "content": "An ancient gold coin proves that a third century Roman emperor written out of history as a fictional character really did exist, scientists say.\r\nThe coin bearing the name of Sponsian and his portrai\u2026 [+5094 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ukraine war round-up: Torture claims and MH17 convictions",
+         "description": "Russia hits energy facilities again, as a Moscow-backed group is found guilty of downing a jet in 2014.",
+         "url": "https://www.bbc.co.uk/news/world-europe-63666554",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1311B/production/_127670187_gettyimages-1244849760.jpg",
+         "publishedAt": "2022-11-17T19:41:41Z",
+         "content": "Media caption, Watch: Dashcam footage shows near-miss blast for Ukrainian driver\r\nUkraine has once again come under heavy bombardment from Russia - just two days after Moscow unleashed some of its la\u2026 [+3906 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "World Cup 2022: Why some football fans will not watch on TV",
+         "description": "With Qatar's human rights abuses in the spotlight, will LGBTQ+ people be watching the tournament?",
+         "url": "https://www.bbc.co.uk/news/uk-wales-63662610",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F7B/production/_127678718_microsoftteams-image.png",
+         "publishedAt": "2022-11-19T21:54:27Z",
+         "content": "As Wales compete in their first World Cup since 1958, some LGBTQ+ fans won't even watch the games on TV.\r\nMany members of the community have spoken out against Qatar being awarded the tournament.\r\nTh\u2026 [+5224 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Your pictures on the theme of 'autumn walks'",
+         "description": "A selection of striking images from our readers around the world.",
+         "url": "https://www.bbc.co.uk/news/in-pictures-63642276",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/130C9/production/_127652087_25.jpg",
+         "publishedAt": "2022-11-20T00:02:23Z",
+         "content": "We asked our readers to send in their best pictures on the theme of \"autumn walks\". Here is a selection of the photographs we received from around the world.\r\nImage source, Gianlorenzo Masin\r\nImage c\u2026 [+3827 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Davido son's drowning: Could tragedy improve Nigeria safety for swimmers?",
+         "description": "Nigerians consider how to prevent drowning accidents after the son of the Afrobeats star died in a pool.",
+         "url": "https://www.bbc.co.uk/news/world-africa-63600802",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/543E/production/_127466512_gettyimages-1414573212_976.png",
+         "publishedAt": "2022-11-30T01:45:55Z",
+         "content": "The drowning of the three-year-old son of Afrobeats star Davido in the swimming pool at his home in Lagos last month has thrown a spotlight on the safety of swimmers in Nigeria.\r\nThe death of Ifeanyi\u2026 [+5819 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Laura Kuenssberg: Putin set UK on search for new friends",
+         "description": "The UK wants better relations with nations which are neither bad guys nor allies, writes Laura Kuenssberg.",
+         "url": "https://www.bbc.co.uk/news/uk-63929487",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E7E/production/_127964296_gettyimages-1244102762.jpg",
+         "publishedAt": "2022-12-10T18:09:17Z",
+         "content": "If you're reading this in a cold house in the UK with a woolly hat on your head, if you've winced at the cost of filling up the car, if you've taken in Ukrainian refugees, then your life has been cha\u2026 [+6366 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "US presidential election 2024: Democrats who might challenge Biden",
+         "description": "An aging president with poor approval is vulnerable to a primary challenge from inside his own party.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-63654388",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13235/production/_127698387_gettyimages-1411483164.jpg",
+         "publishedAt": "2022-11-21T02:41:57Z",
+         "content": "He's the oldest president in US history and his approval ratings have stalled in the low 40s. Is President Joe Biden ripe for a primary challenge in 2024?\r\nDonald Trump, the man he defeated two years\u2026 [+7174 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Lockerbie bombing suspect will not face death penalty",
+         "description": "Abu Agila Masud is the first person charged on US soil in connection with the 1988 airline attack.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-63946772",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1258C/production/_127984157_014503340ecb271eb708da7affcf20f06871fab20_54_2200_12381000x563.jpg",
+         "publishedAt": "2022-12-12T21:42:19Z",
+         "content": "A man accused of making the bomb that downed Pan Am flight 103 over Lockerbie, Scotland, 34 years ago was told he would not face the death penalty as he appeared in a US court. \r\nThe US alleges that \u2026 [+4413 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "World Cup 2022: The luck and skill needed to capture iconic images",
+         "description": "A bit of luck, a lot of skill and some canny positioning are all part of capturing iconic moments.",
+         "url": "https://www.bbc.co.uk/news/newsbeat-63833741",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F1FA/production/_127864916_charlottewilson.jpg",
+         "publishedAt": "2022-12-03T09:18:13Z",
+         "content": "The agony of a missed shot at the World Cup isn't just reserved for the players. \r\nFor the legions of photographers capturing the tournament, timing, position and a bit of luck are all key to scoring\u2026 [+3866 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ukraine war: Russian activist writes letters from jail",
+         "description": "Russian activist Vladimir Kara-Murza, charged with treason, writes to the BBC from his jail cell.",
+         "url": "https://www.bbc.co.uk/news/world-europe-63597097",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/71CA/production/_127603192_gettyimages-1243866122.jpg",
+         "publishedAt": "2022-11-14T00:38:36Z",
+         "content": "When Vladimir Kara-Murza announced he was returning to Moscow earlier this year, his wife Evgenia knew the risk but did not try to stop him. \r\nRussia had invaded Ukraine and made it a crime to call i\u2026 [+9391 chars]"
+      },
+      {
+         "source": {
+            "id": "cnn",
+            "name": "CNN"
+         },
+         "author": "George Ramsay",
+         "title": "Cristiano Ronaldo begins World Cup campaign with Portugal after Manchester United departure",
+         "description": "Two days after his turbulent departure from Manchester United, Cristiano Ronaldo will begin his World Cup campaign with Portugal and look to put events from the last week-and-a-half behind him.",
+         "url": "https://www.cnn.com/2022/11/23/football/cristiano-ronaldo-portugal-ghana-world-cup-preview-spt-intl/index.html",
+         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221123142106-01-world-cup-preview-ronaldo.jpg?c=16x9&q=w_800,c_fill",
+         "publishedAt": "2022-11-24T00:24:22Z",
+         "content": "Two days after his turbulent departure from Manchester United, Cristiano Ronaldo will begin his World Cup campaign with Portugal and look to put events from the last week-and-a-half behind him. \r\nPor\u2026 [+4998 chars]"
+      },
+      {
+         "source": {
+            "id": "cnn",
+            "name": "CNN"
+         },
+         "author": "Ben Morse",
+         "title": "England vs. Senegal: Euro 2020 finalist faces African champion for place in World Cup quarterfinals",
+         "description": "Sunday's round of 16 fixtures feature the 2018 World Cup winner, the current African champion and one of the Euro 2020 finalists.",
+         "url": "https://www.cnn.com/2022/12/03/football/england-senegal-france-poland-2022-world-cup-preview-spt-intl/index.html",
+         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221203144441-03-england-senegal-wc-preview-120322.jpg?c=16x9&q=w_800,c_fill",
+         "publishedAt": "2022-12-04T00:15:19Z",
+         "content": "Sundays round of 16 fixtures feature the 2018 World Cup winner, the current African champion and one of the Euro 2020 finalists. \r\nFirst up, reigning World Cup champion France faces Poland at the Al \u2026 [+4388 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Mother's death forces pundit to leave broadcast",
+         "description": "Nadia Nadim says her mother died after being hit by a truck, after the Denmark forward had to leave an ITV broadcast.",
+         "url": "https://www.bbc.co.uk/sport/football/63737870",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/147AD/production/_127758838_gettyimages-1408462228.jpg",
+         "publishedAt": "2022-11-23T20:31:19Z",
+         "content": "Nadia Nadim (number nine) played for Denmark during Euro 2022 and has 103 caps\r\n<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BB\u2026 [+1884 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "World Cup 2022: We will see a better Neymar for Brazil in Qatar, says Thiago Silva",
+         "description": "Brazil captain Thiago Silva says we will see a \"better Neymar\" at this World Cup after injury hampered his past two tournaments.",
+         "url": "https://www.bbc.co.uk/sport/football/63657471",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1725F/production/_127751849_gettyimages-1243459727.jpg",
+         "publishedAt": "2022-11-23T17:24:29Z",
+         "content": "Aleksandar Mitrovic is Serbia's all-time top scorer, netting 50 goals in 76 international appearances\r\n<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 Decemb\u2026 [+3172 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Kyiv attacked as world leaders meet at G20",
+         "description": "Kyiv has been attacked by missiles, the city's mayor says, as world leaders condemn Russia's invasion of Ukraine",
+         "url": "https://www.bbc.co.uk/news/world-europe-63638859",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+         "publishedAt": "2022-11-15T13:43:19Z",
+         "content": "Russia has launched an attack on the Ukrainian capital of Kyiv, with explosions heard and smoke seen rising. \r\nTwo residential buildings in the central Pechersk district were among those hit, accordi\u2026 [+596 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Mumbai's Aarey forest: The woman fighting to protect it from metro project",
+         "description": "Pramila is protesting against a train depot being built in the forest where her community lives alongside leopards.",
+         "url": "https://www.bbc.co.uk/news/av/world-asia-india-63721940",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11CA/production/_127745540_p0dj2gdd.jpg",
+         "publishedAt": "2022-11-23T00:02:27Z",
+         "content": "In the Indian megacity of Mumbai theres an urban forest four times the size of New Yorks Central Park. \r\nIts home to a community of indigenous people who live alongside leopards. \r\nThe land is prime \u2026 [+442 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ukraine war: Celebration in Kherson - but war 'far from over'",
+         "description": "Jubilant scenes are continuing after Ukraine took back the city of Kherson from Russia.",
+         "url": "https://www.bbc.co.uk/news/world-europe-63607568",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11063/production/_127613796_mediaitem127613795.jpg",
+         "publishedAt": "2022-11-12T16:55:46Z",
+         "content": "Media caption, Footage from social media shows a Ukrainian soldier shouting \"Greetings from Kherson\"\r\nUkrainian officials have warned \"the war is not over\" after Russia's withdrawal from Kherson, eve\u2026 [+4550 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Elnaz Rekabi: Family home of Iranian climber demolished",
+         "description": "Elnaz Rekabi became a hero of the protest movement after competing abroad with her hair uncovered.",
+         "url": "https://www.bbc.co.uk/news/world-middle-east-63847173",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F7CE/production/_127283436_mediaitem127283435.jpg",
+         "publishedAt": "2022-12-03T16:03:21Z",
+         "content": "Media caption, Watch: Iran rock climber competes without hijab\r\nThe family villa of Elnaz Rekabi - an Iranian climber who competed abroad with her hair uncovered - has reportedly been demolished.\r\nMs\u2026 [+2013 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Students killed as bomb blast hits Afghan school",
+         "description": "At least 10 students are killed after an explosion at a religious school in northern Aghanistan, officials say.",
+         "url": "https://www.bbc.co.uk/news/world-asia-63806005",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/634F/production/_127832452_aybak_samangan_province_afghanistan_getty.jpg",
+         "publishedAt": "2022-11-30T11:46:25Z",
+         "content": "At least 10 people have been killed after a bomb blast hit a religious school in northern Afghanistan, the ruling Taliban regime has said. \r\nThe blast took place in Aybak in the Samangan province and\u2026 [+859 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "China plans 'crackdown' after Covid protests",
+         "description": "Warnings of a crackdown come as Chinese health officials vow to reduce the inconvenience caused by Covid.",
+         "url": "https://www.bbc.co.uk/news/world-asia-china-63796135",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AFCA/production/_127820054_gettyimages-1245195148.jpg",
+         "publishedAt": "2022-11-29T17:11:12Z",
+         "content": "China's top security agency has called for a crackdown on \"hostile forces\" after rare protests against Covid rules in Chinese cities at the weekend.\r\nPolice officers have flooded now-empty protest si\u2026 [+2581 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Zimbabwe without Robert Mugabe: What has changed?",
+         "description": "It is exactly five years since Zimbabwe's ex-president left power but life is now worse for many.",
+         "url": "https://www.bbc.co.uk/news/world-africa-63703145",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FF9/production/_127731918_gettyimages-871721880.jpg",
+         "publishedAt": "2022-11-22T00:21:48Z",
+         "content": "A climate of fear still lingers in Zimbabwe, five years after long-time ruler Robert Mugabe was deposed. As the country marks this milestone, few people are willing to speak openly about whether the \u2026 [+8032 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "UK parents urged to be aware of Strep A symptoms",
+         "description": "Health officials have issued a rare alert after a rise in cases across the UK and the death of six children.",
+         "url": "https://www.bbc.co.uk/news/health-63844880",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B5E6/production/_127866564_victoriaprimaryschool2.jpg.png",
+         "publishedAt": "2022-12-03T10:47:19Z",
+         "content": "Media caption, Watch: How common is Strep A and what are the symptoms to watch out for?\r\nHealth officials are urging parents to look out for symptoms of Strep A after six children died with an invasi\u2026 [+4364 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "World Cup 2022: 'I am very afraid', says Qatari transgender woman",
+         "description": "Shahd says authorities told her to remove breast tissue that grew after she began taking oestrogen.",
+         "url": "https://www.bbc.co.uk/news/uk-63783327",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B81/production/_127816988_qatar-index-getty.jpg",
+         "publishedAt": "2022-12-02T01:24:28Z",
+         "content": "Controversy about Qatar hosting football's World Cup has mostly focused on LGBT rights in the country and around same-sex relationships being criminalised. Transgender Qataris can be detained for \"vi\u2026 [+4770 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ukraine war: Nato pledges to provide more weapons and fix power grid",
+         "description": "Millions of Ukrainians remain without power and water in freezing temperatures after Russian strikes.",
+         "url": "https://www.bbc.co.uk/news/world-europe-63798506",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8DC3/production/_127819263_ukraine_air_defence.jpg",
+         "publishedAt": "2022-11-29T17:32:28Z",
+         "content": "Nato has pledged to give more weapons to Ukraine and help fix critical energy infrastructure badly damaged by massive Russian missile and drone strikes.\r\nAt a summit in Bucharest, the secretary gener\u2026 [+3797 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Arizona sheriff vows to stop 'illegal' shipping crate border barrier",
+         "description": "Critics say Gov Doug Ducey's shipping crate barrier unlawfully cuts through tribal and federal lands.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-63946771",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14E68/production/_127980658_borderwall.jpg",
+         "publishedAt": "2022-12-12T16:21:28Z",
+         "content": "Amid growing controversy, an Arizona sheriff has vowed to stop the construction of an \"illegal\" wall of shipping containers at the US-Mexico border if it reaches his county.\r\nThe makeshift barrier is\u2026 [+3135 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Alan MacMasters: How the great toaster hoax was exposed",
+         "description": "How a 15-year-old schoolboy exposed a much-repeated \"fact\" as a Wikipedia hoax.",
+         "url": "https://www.bbc.co.uk/news/the-reporters-63622746",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/813A/production/_127628033_toaster_hoax_top_image-nc.png",
+         "publishedAt": "2022-11-19T01:08:37Z",
+         "content": "For more than a decade, a prankster spun a web of deception about the inventor of the electric toaster. His lies fooled newspapers, teachers and officials. Then a teenager flagged up something that e\u2026 [+11095 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "COP27: Climate costs deal struck but no fossil fuel progress",
+         "description": "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further.",
+         "url": "https://www.bbc.co.uk/news/science-environment-63677466",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg",
+         "publishedAt": "2022-11-20T11:45:06Z",
+         "content": "A historic deal has been struck at the UN's COP27 summit that will see rich nations pay poorer countries for damage and economic losses caused by climate change.\r\nIt ends almost 30 years of waiting b\u2026 [+4482 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ghana football: How to dribble around nationality rules",
+         "description": "The West African nation has strict rules for MPs but not for the Black Stars footballers.",
+         "url": "https://www.bbc.co.uk/news/world-africa-63795721",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE97/production/_127838965_gettyimages-1245205455_promo.png",
+         "publishedAt": "2022-12-01T00:36:10Z",
+         "content": "In our series of letters from African journalists, Elizabeth Ohene considers why Ghana's nationality laws do not extend to the country's football team, the Black Stars, who are playing at the World C\u2026 [+4683 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "COP27: Without Greta, activists make waves at climate summit",
+         "description": "Young campaigners say they are calling out \"greenwashing\" at COP27 from the inside.",
+         "url": "https://www.bbc.co.uk/news/science-environment-63599932",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D77/production/_127634570_gettyimages-1440254642.jpg",
+         "publishedAt": "2022-11-15T00:05:45Z",
+         "content": "Young people are a more powerful force than ever in the UN climate summit, the UN's youngest climate advisor tells BBC News in Egypt.\r\n\"Young people are definitely shaping outcomes here at COP27,\" So\u2026 [+4088 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": null,
+         "title": "China says journalists should eschew activities unrelated to their role - Reuters",
+         "description": "Journalists should not engage in activities unrelated to their role, China's foreign ministry said on Tuesday, after broadcaster BBC said one of its reporters had been assaulted and detained while covering weekend protests in Shanghai.",
+         "url": "https://www.reuters.com/world/china/china-says-journalists-should-eschew-activities-unrelated-their-role-2022-11-29/",
+         "urlToImage": "https://www.reuters.com/resizer/gL1HPxV3LOlxljqo8iK4MLHnE88=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YCNLGJ6PXVMVJAHAXBME5ZYJ6M.jpg",
+         "publishedAt": "2022-11-29T07:42:00Z",
+         "content": "BEIJING, Nov 29 (Reuters) - Journalists should not engage in activities unrelated to their role, China's foreign ministry said on Tuesday, after broadcaster BBC said one of its reporters had been ass\u2026 [+311 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": null,
+         "title": "Police say number of people missing after explosion on island of Jersey - Reuters",
+         "description": "A number of people are missing following an explosion on the island of Jersey, off the coast of northern France, local police said on Twitter on Saturday.",
+         "url": "https://www.reuters.com/world/uk/police-say-number-people-missing-after-explosion-island-english-channel-2022-12-10/",
+         "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=123",
+         "publishedAt": "2022-12-10T10:30:00Z",
+         "content": "LONDON, Dec 10 (Reuters) - A number of people are missing following an explosion on the island of Jersey, off the coast of northern France, local police said on Twitter on Saturday.\r\n\"Following the e\u2026 [+781 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": null,
+         "title": "Arteta hopes World Cup break will not disrupt Arsenal's season - Reuters",
+         "description": "Manager Mikel Arteta said he is hoping the World Cup break does not impede Arsenal's momentum, after the north London club defeated Wolverhampton Wanderers 2-0 on Saturday to take a five-point lead at the top of the Premier League.",
+         "url": "https://www.reuters.com/lifestyle/sports/arteta-hopes-world-cup-break-will-not-disrupt-arsenals-season-2022-11-13/",
+         "urlToImage": "https://www.reuters.com/resizer/hmKZ-t4s65pZ49vyZVXp8vFGJww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NPGKDQ37OVMNFFFQEFR3R3NQFM.jpg",
+         "publishedAt": "2022-11-13T03:35:00Z",
+         "content": "Nov 13 (Reuters) - Manager Mikel Arteta said he is hoping the World Cup break does not impede Arsenal's momentum, after the north London club defeated Wolverhampton Wanderers 2-0 on Saturday to take \u2026 [+1546 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": "Reuters Fact Check",
+         "title": "Fact Check-Video claiming to show a 'reptilian' person on television is digitally altered - Reuters",
+         "description": "A video showing Chile's Minister of Social Development and Family, Karla Rubilar Barahona, standing next to former president of Chile Sebastian Pinera has been digitally altered.",
+         "url": "https://www.reuters.com/article/factcheck-reptilian-barahona-idUSL1N32J24J",
+         "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+         "publishedAt": "2022-11-23T19:39:00Z",
+         "content": "A video showing Chiles Minister of Social Development and Family, Karla Rubilar Barahona, standing next to former president of Chile Sebastian Pinera has been digitally altered.\r\nExamples can be seen\u2026 [+2067 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": "Reuters Fact Check",
+         "title": "Fact Check-No evidence children were rescued from Joe Biden-owned property in Ukraine - Reuters.com",
+         "description": "There is no evidence that a Biden-owned property exists above a bioweapon lab in Ukraine, but social media users are sharing the claim, adding that thousands of children were rescued from the alleged bioweapon lab underneath the property.",
+         "url": "https://www.reuters.com/article/factcheck-biden-ukraine-children-idUSL1N32W19W",
+         "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+         "publishedAt": "2022-12-06T15:31:00Z",
+         "content": "There is no evidence that a Biden-owned property exists above a bioweapon lab in Ukraine, but social media users are sharing the claim, adding that thousands of children were rescued from the alleged\u2026 [+4091 chars]"
+      },
+      {
+         "source": {
+            "id": "reuters",
+            "name": "Reuters"
+         },
+         "author": "Reuters Fact Check",
+         "title": "Fact Check-Confusion spreads online about 15000 people detained in Iran - Reuters",
+         "description": "Amid reports that over 15,000 protesters were arrested in Iran and claims that lawmakers have called for severe punishments, many people online including celebrities published incorrect claims that 15,000 people had already been sentenced to death in the Isla\u2026",
+         "url": "https://www.reuters.com/article/factcheck-iran-sentencing-idUSL1N32D2S8",
+         "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+         "publishedAt": "2022-11-17T20:54:00Z",
+         "content": "Amid reports that over 15,000 protesters were arrested in Iran and claims that lawmakers have called for severe punishments, many people online including celebrities published incorrect claims that 1\u2026 [+4189 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Reuters",
+         "title": "Iran arrests British-Iranian citizen for \u2018communicating\u2019 with foreign news channels",
+         "description": "Person arrested in Isfahan province accused of sharing information with BBC and Iran International, says state mediaA British-Iranian citizen was arrested in Iran\u2019s Isfahan province on Wednesday for allegedly sharing information with foreign-based news channe\u2026",
+         "url": "https://www.theguardian.com/world/2022/nov/23/iran-arrests-british-iranian-citizen-for-communicating-with-foreign-news-channels",
+         "urlToImage": "https://i.guim.co.uk/img/media/fe111cccfdd77bf5ac25b19dfe46168776f735fb/0_219_4987_2992/master/4987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55d649822ee25672ea6ca80e9f0b2b50",
+         "publishedAt": "2022-11-23T16:40:14Z",
+         "content": "A British-Iranian citizen was arrested in Irans Isfahan province on Wednesday for allegedly sharing information with foreign-based news channels, Iranian state media reported.\r\nThe Revolutionary Guar\u2026 [+466 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jim Waterson Media editor",
+         "title": "BBC preparing to go online-only over next decade, says director general",
+         "description": "Tim Davie outlines vision for a world of \u2018infinite choice\u2019 where broadcast TV and radio are being switched offThe BBC is preparing to shut down its traditional television and radio broadcasts as it becomes an online-only service over the next decade, accordin\u2026",
+         "url": "https://www.theguardian.com/media/2022/dec/07/bbc-will-go-online-only-by-2030s-says-director-general",
+         "urlToImage": "https://i.guim.co.uk/img/media/837c0948dc8d2ebd28252fcaa321f5cc857d79ad/0_130_3906_2344/master/3906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=496efa4012a68f04185f16bb5abb17ee",
+         "publishedAt": "2022-12-07T19:35:34Z",
+         "content": "The BBC is preparing to shut down its traditional television and radio broadcasts as it becomes an online-only service over the next decade, according to the director general, Tim Davie.\r\nImagine a w\u2026 [+3391 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jim Waterson Media editor",
+         "title": "BBC to produce \u2018lighter\u2019 content to attract Britons from poorer backgrounds",
+         "description": "Ofcom warns lower socio-economic viewers feel \u2018persistently underserved\u2019 by broadcasterThe BBC will redirect its television budget to make \u201clighter\u201d dramas and comedies in the belief they will appeal to Britons from poorer backgrounds.The broadcaster also sai\u2026",
+         "url": "https://www.theguardian.com/media/2022/nov/30/bbc-to-produce-lighter-content-to-attract-britons-from-poorer-backgrounds",
+         "urlToImage": "https://i.guim.co.uk/img/media/b8e605557ed7b33242f5629dbad1bccd65e839ad/0_89_4285_2571/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e75002ef699b13643f38d3d57a915b46",
+         "publishedAt": "2022-11-30T16:05:56Z",
+         "content": "The BBC will redirect its television budget to make lighter dramas and comedies in the belief they will appeal to Britons from poorer backgrounds.\r\nThe broadcaster also said it would try to attract v\u2026 [+4301 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Nick Coffer",
+         "title": "BBC local radio is a lifeline for millions of listeners \u2013 we can\u2019t afford to cut it | Nick Coffer",
+         "description": "As a former local broadcaster, I\u2019ve seen how vital radio is to our communities. It should be the jewel in the BBC\u2019s crownI came into work at BBC Three Counties Radio one day to a message from the daughter of one of my regular listeners. I had struck up an unl\u2026",
+         "url": "https://www.theguardian.com/commentisfree/2022/nov/14/bbc-local-radio-cut-communities",
+         "urlToImage": "https://i.guim.co.uk/img/media/3f833411768a2cf406081eb9189cad5151d6bb7d/0_195_5860_3516/master/5860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3312d2b0395c6d7b010a4d2334d98f79",
+         "publishedAt": "2022-11-14T08:00:35Z",
+         "content": "I came into work at BBC Three Counties Radio one day to a message from the daughter of one of my regular listeners. I had struck up an unlikely off-air friendship with her mother, the warm, opinionat\u2026 [+4779 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Melvyn Bragg",
+         "title": "John Mapplebeck obituary",
+         "description": "Television director who made award-winning arts films for the BBC and ITVIn 1966 the television film-maker John Mapplebeck, who has died aged 86, made an early mark with an item in the BBC2 series New Release on how interest in poetry was flourishing around t\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/07/john-mapplebeck-obituary",
+         "urlToImage": "https://i.guim.co.uk/img/media/239cbd49868dad69ae0d67b04520ff5cfd09ce14/0_53_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25beca691ffffaf4719389a562ed5783",
+         "publishedAt": "2022-12-07T17:20:26Z",
+         "content": "In 1966 the television film-maker John Mapplebeck, who has died aged 86, made an early mark with an item in the BBC2 series New Release on how interest in poetry was flourishing around the work of Ba\u2026 [+6253 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Tara Conlan",
+         "title": "The Traitors: how \u2018Highland Hunger Games\u2019 became the BBC\u2019s new hit",
+         "description": "Psychological reality show hosted by Claudia Winkleman is already attracting visitors to the Scottish castle where it is filmedDescribed as the Highland Hunger Games, new BBC One psychological reality show The Traitors is proving a hit with audiences but is a\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/09/the-traitors-how-highland-hunger-games-became-the-bbc-new-hit-claudia-winkleman",
+         "urlToImage": "https://i.guim.co.uk/img/media/1a7487ba0e93f7629ee7171dac4caaadb5bc1a3a/0_286_4284_2570/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=520df058eea0a691bcec08c359edb226",
+         "publishedAt": "2022-12-09T17:20:48Z",
+         "content": "Described as the Highland Hunger Games, new BBC One psychological reality show The Traitors is proving a hit with audiences but is also creating an appetite for the Scottish castle and region where i\u2026 [+5266 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Laura Snapes",
+         "title": "BBC Sound of 2023: Fred Again, Gabriels and Rachel Chinouriri among nominees tipped for success",
+         "description": "Dance music acts dominate the award, whose previous winners include Adele, Stormzy, Sam Smith and Haim, with many having already had breakout success via TikTok This year\u2019s BBC Sound of 2023 shortlist \u2013 which tips the brightest new musical talents \u2013 suggests \u2026",
+         "url": "https://www.theguardian.com/music/2022/dec/05/bbc-sound-of-2023-fred-again-gabriels-and-rachel-chinouriri-among-nominees-tipped-for-success",
+         "urlToImage": "https://i.guim.co.uk/img/media/3bd37a23b4b381d68de6cad0b2206f49adc00ca1/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5b4f1e28b76600c5b90bf61bd59a368",
+         "publishedAt": "2022-12-05T11:32:56Z",
+         "content": "This years BBC Sound of 2023 shortlist which tips the brightest new musical talents suggests that dance music will dominate the next 12 months.\r\nAmong the 10 nominees are Piri and Tommy, a young Manc\u2026 [+2505 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Emma Graham-Harrison",
+         "title": "The Madness by Fergal Keane review \u2013 the BBC war correspondent on conflict, fear and PTSD",
+         "description": "A brutally honest exploration of what motivates Keane to keep reporting on atrocities despite the toll on his mental healthJournalists are unpopular, as a profession, but war correspondents get a rare pass. In films, books and the wider culture there is a dar\u2026",
+         "url": "https://www.theguardian.com/books/2022/nov/17/the-madness-by-fergal-keane-review-the-bbc-war-correspondent-on-conflict-fear-and-ptsd",
+         "urlToImage": "https://i.guim.co.uk/img/media/c88e655200df7697830e41f05dc0e29c1ef6f075/0_278_3264_1958/master/3264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4d1a5264e379e04f7fe46191bd1c7c0",
+         "publishedAt": "2022-11-17T07:30:42Z",
+         "content": "Journalists are unpopular, as a profession, but war correspondents get a rare pass. In films, books and the wider culture there is a dark glamour, a reckless heroism that attaches to people (mostly m\u2026 [+7462 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Scott Bryan",
+         "title": "\u2018I tried to break my ankle to get out of it\u2019: an oral history of Strictly Come Dancing",
+         "description": "The glitz! The glitterballs! The fake tan! As Strictly comes to the end of its 20th season, the judges, celebrities and dancers recall how a high-risk venture became a must-watch Saturday-night stapleOn Saturday 15 May 2004, a reinvention of the long-running \u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/10/strictly-come-dancing-oral-history-bbc",
+         "urlToImage": "https://i.guim.co.uk/img/media/7c1159344bd665711654fa61a6e46c4e15e210ea/0_2282_3751_2250/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b187fb9e64a027985ce45d069497f56c",
+         "publishedAt": "2022-12-10T11:00:02Z",
+         "content": "On Saturday 15 May 2004, a reinvention of the long-running ballroom-dancing competition Come Dancing, but with celebrities dancing with professionals, debuted on BBC One. It would go on to become one\u2026 [+26221 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Hollie Richardson, Phil Harrison, Alexi Duggins, Hannah Verdier and Simon Wardell",
+         "title": "TV tonight: Kate Winslet and her daughter Mia Threapleton star in agonising drama",
+         "description": "I Am Ruth is a brutal story about a social media-obsessed teenager. Plus, while Cara Delevingne continues to explore her sexuality. Here\u2019s what to watch this evening Continue reading...",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/08/tv-tonight-kate-winslet-and-her-daughter-mia-threapleton-star-in-agonising-drama",
+         "urlToImage": "https://i.guim.co.uk/img/media/0cf465c305976f3c1f8fae39312b39c2dd808287/0_0_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a1d35e03b785a3cec4847f482a5eaef",
+         "publishedAt": "2022-12-08T06:20:45Z",
+         "content": "I Am Ruth\r\nThursday, 9pm, Channel 4\r\nFor anyone whos ever been a teenage girl, this feature-length drama is agonising to watch it so brutally captures how horrible everything can feel. Kate Winslet, \u2026 [+3787 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Owen Jones",
+         "title": "Austerity 2.0 is not a necessity \u2013 it\u2019s a choice. Why won\u2019t the media say so? | Owen Jones",
+         "description": "There was a clear bias towards the City in coverage of the 2008 crash. We can\u2019t afford for it to happen againThere is no real public enthusiasm for Tory economics. Sure, the heart of a thinktanker dwelling in London\u2019s Tufton Street may flutter a little faster\u2026",
+         "url": "https://www.theguardian.com/commentisfree/2022/nov/15/austerity-media-city-2008-crash",
+         "urlToImage": "https://i.guim.co.uk/img/media/fcf5012d3c4b085fe3368817e338f9ea881b1de7/103_0_3397_2039/master/3397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=084f989dd11bde10c8b47b2792df4202",
+         "publishedAt": "2022-11-15T12:22:02Z",
+         "content": "There is no real public enthusiasm for Tory economics. Sure, the heart of a thinktanker dwelling in Londons Tufton Street may flutter a little faster when they hear the words shrink the state. But as\u2026 [+4986 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Anu Shukla",
+         "title": "\u2018It was revelatory for younger Asians\u2019: Monsoon\u2019s Sheila Chandra on her hit Ever So Lonely",
+         "description": "In 1982, no-one had ever seen a British Asian teenager in a sari singing Indian music on Top of the Pops \u2013 until Chandra appeared, with a raga-influenced single that would inspire musicians for decadesA decade after Bowie\u2019s Starman moment on Top of the Pops, \u2026",
+         "url": "https://www.theguardian.com/music/2022/nov/29/sheila-chandra-monsoon-interview-ever-so-lonely",
+         "urlToImage": "https://i.guim.co.uk/img/media/92e65bc47ad664d37892acec83feede954956c89/0_711_3600_2159/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d05eac790e59197b25f31c775bf1833",
+         "publishedAt": "2022-11-29T15:01:28Z",
+         "content": "A decade after Bowies Starman moment on Top of the Pops, a South Asian teenage girl extended a hand from BBC Television Centre to her own audience of dreamers. It was 1982 and a sari-clad Sheila Chan\u2026 [+5409 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Chris Hall",
+         "title": "Staying alive in 85: looking back on a fascinating end-of-year roundup",
+         "description": "Katharine Hamnett, Clive Sinclair, Ronald Reagan\u2026 1985 was a year packed with incident, as reflected in the Observer\u2019s review of the past 12 monthsThe Observer Magazine\u2019s end-of-year round-up for 1985 riffed on an anti-nuclear Katharine Hamnett slogan T-shirt\u2026",
+         "url": "https://www.theguardian.com/lifeandstyle/2022/nov/27/staying-alive-in-85-looking-back-on-a-fascinating-year",
+         "urlToImage": "https://i.guim.co.uk/img/media/86b08a0368e6237638eae82cae1526eaa01398d6/168_1026_2749_1648/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1a06e522137400fce89ef3406a09a4b3",
+         "publishedAt": "2022-11-27T06:00:13Z",
+         "content": "The Observer Magazines end-of-year round-up for 1985 riffed on an anti-nuclear Katharine Hamnett slogan T-shirt of the time: OK, you stayed alive in 85, now get a fix on 86.\r\nA picture of a newborn b\u2026 [+1591 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Libby Brooks Scotland correspondent",
+         "title": "Scottish opposition parties reject SNP\u2019s plan to treat election as \u2018de facto\u2019 referendum",
+         "description": "Nicola Sturgeon says tying general election to independence is only lawful way for Scots to express their will Scottish opposition leaders will refuse to engage with Nicola Sturgeon\u2019s plan to run the next general election as a de facto independence referendum\u2026",
+         "url": "https://www.theguardian.com/uk-news/2022/nov/24/scottish-opposition-parties-reject-snp-plan-to-treat-election-as-de-facto-referendum-independence",
+         "urlToImage": "https://i.guim.co.uk/img/media/b4721063b03597a5e1e5a4c4f348bc51762420fd/0_0_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acab2336b424d34775fcc3bcf083b631",
+         "publishedAt": "2022-11-24T11:58:30Z",
+         "content": "Scottish opposition leaders will refuse to engage with Nicola Sturgeons plan to run the next general election as a de facto independence referendum, after the first minster said it was the only lawfu\u2026 [+3683 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Luke McLaughlin",
+         "title": "Australia v Samoa: Rugby League World Cup final \u2013 live",
+         "description": "<ul><li>Rugby league updates from the 4pm GMT kick-off</li><li>And you can email Luke or tweet @LukeMcLaughlin</li></ul>The Jillaroos are champions. Aaron Bower\u2019s report will be coming up.No one would have predicted Samoa going deep in this competition after \u2026",
+         "url": "https://www.theguardian.com/sport/live/2022/nov/19/australia-v-samoa-rugby-league-world-cup-final-live",
+         "urlToImage": "https://i.guim.co.uk/img/media/85a09d5381fd39a5aa52e671dfaea53f68690fdd/0_50_3942_2366/master/3942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2fb84663bfdf387480af0e2d66a73579",
+         "publishedAt": "2022-11-19T15:08:46Z",
+         "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nIs Matt Parish surprised Samoa are in the final? No. Weve believed from day one weve improved every week, and well need to improve a\u2026 [+3507 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jasper Jolly",
+         "title": "North of England rail faces \u2018utter chaos\u2019, warns business group",
+         "description": "Introduction of new timetable could lead to crisis, says Northern Powerhouse PartnershipBusiness leaders representing industry in the north of England have warned that rail services across the north of England could \u201ccollapse into utter chaos\u201d unless the gove\u2026",
+         "url": "https://www.theguardian.com/business/2022/nov/28/north-of-england-rail-new-timetable-northern-powerhouse-partnership",
+         "urlToImage": "https://i.guim.co.uk/img/media/c82002b6061ef2453a8028e975e751e61d16854a/0_91_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56d9f2748d48799d1ef81c2d1dd70ddf",
+         "publishedAt": "2022-11-28T09:11:08Z",
+         "content": "Business leaders have warned that rail services across the north of England could collapse into utter chaos unless the government pushes urgently for a resolution to months of disruption.\r\nRail servi\u2026 [+3707 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Stuart Heritage",
+         "title": "The Batman to Last Christmas: seven best films to watch this week",
+         "description": "Robert Pattinson stars in one of the best superhero movies of the year, while Paul Feig\u2019s festive treat inspired by Wham! will make Christmas come early Continue reading...",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/25/the-batman-to-last-christmas-the-seven-best-films-to-watch-on-tv-this-week",
+         "urlToImage": "https://i.guim.co.uk/img/media/5cefd99e5aeb164127072d061800744c98414314/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=618356683eeef4630de7b47baf16449f",
+         "publishedAt": "2022-11-25T09:00:03Z",
+         "content": "Pick of the week\r\nThe Batman\r\nIn a world where even the MCU has been knocked off-beam, its reassuring to know that at least some superheroes can maintain their reliability. Matt Reevess The Batman is\u2026 [+5063 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Helen Davidson in Taipei and Verna Yu",
+         "title": "Clashes in Shanghai as protests over zero-Covid policy grip China",
+         "description": "Beijing, Chengdu and Wuhan see demonstrations as anger over Xi Jinping\u2019s strict Covid policies builds, in a test for the Communist partyHundreds of demonstrators and police have clashed in Shanghai as protests over China\u2019s stringent Covid restrictions flared \u2026",
+         "url": "https://www.theguardian.com/world/2022/nov/28/clashes-in-shanghai-as-protests-over-zero-covid-policy-grip-china",
+         "urlToImage": "https://i.guim.co.uk/img/media/66e965b742c64bc9a505d209277bc6c5a735fd89/0_96_2868_1721/master/2868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=653024bc4a80b0f2525bf9785f15f00a",
+         "publishedAt": "2022-11-28T00:08:27Z",
+         "content": "Hundreds of demonstrators and police have clashed in Shanghai as protests over Chinas stringent Covid restrictions flared for a third day and spread to several cities, in the biggest test for preside\u2026 [+4900 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jude Rogers",
+         "title": "Nick Fisher obituary",
+         "description": "Writer and broadcaster who lent his fishing expertise to TV and radio shows and co-authored The River Cottage Fish BookAn award-winning writer and broadcaster, agony uncle, film critic and fanatical fisherman, Nick Fisher, who has died unexpectedly aged 63, h\u2026",
+         "url": "https://www.theguardian.com/sport/2022/dec/04/nick-fisher-obituary",
+         "urlToImage": "https://i.guim.co.uk/img/media/c70c3eefc01054fc9e7ad291dc056ba7c3ef6870/0_186_3963_2379/master/3963.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abe3157632f491cfbf638becbd91207f",
+         "publishedAt": "2022-12-04T15:53:42Z",
+         "content": "An award-winning writer and broadcaster, agony uncle, film critic and fanatical fisherman, Nick Fisher, who has died unexpectedly aged 63, had a varied, energetic working life.\r\nIn recent years, he w\u2026 [+5424 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Gwilym Mumford",
+         "title": "The Guide #61: Five shows to watch if you want to avoid the Qatar World Cup",
+         "description": "In this week\u2019s newsletter: Can\u2019t stand the corruption or human rights abuses? Simply don\u2019t like the game? Consult our list of what to watch instead<ul><li>Don\u2019t get the Guide delivered to your inbox? Sign up to get the full article here</li></ul>Slap on the s\u2026",
+         "url": "https://www.theguardian.com/culture/2022/nov/18/the-guide-qatar-world-cup",
+         "urlToImage": "https://i.guim.co.uk/img/media/f5656fe893aacabf5ea854084e5519ace9dc6c46/0_250_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=686b199bacdbd61449a09557ae79d078",
+         "publishedAt": "2022-11-18T11:50:11Z",
+         "content": "Slap on the suncream, don your sunglasses and head to your nearest Boxpark to be showered in overpriced pilsner: the World Cup is here in wait, November?! That pint hurled at you isnt going to feel n\u2026 [+5555 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jim Waterson Media editor",
+         "title": "Krishnan Guru-Murthy says it is time for a black or Asian boss of a UK TV channel",
+         "description": "Exclusive: Channel 4 News presenter to make case in speech to station\u2019s Inclusion festival on WednesdayKrishnan Guru-Murthy has suggested it is time for a black or Asian person to run a British television channel, warning that a lack of diversity among top ex\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/30/krishnan-guru-murthy-says-it-is-time-for-a-black-or-asian-to-run-a-uk-tv-channel",
+         "urlToImage": "https://i.guim.co.uk/img/media/dcbbf529f6564673dd69c1542c6e227dc2f0b591/0_231_1498_898/master/1498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf97a982a0b27ba8d8492d3e7623521f",
+         "publishedAt": "2022-11-30T07:00:10Z",
+         "content": "Krishnan Guru-Murthy has suggested it is time for a black or Asian person to run a British television channel, warning that a lack of diversity among top executives is causing problems for the indust\u2026 [+3304 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Lucy Mangan",
+         "title": "The Traitors review \u2013 Claudia Winkleman\u2019s new show is sick, twisted \u2026 and totally addictive",
+         "description": "Paranoia, guilt and sociopathy plague the 22 strangers collaborating to win cash \u2013 because the Strictly host is secretly ordering some of them to \u2018murder\u2019 at night. You\u2019ll be hookedThe Traitors (BBC One) is the Highlands Hunger Games. It is terrible \u2013 a pande\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/29/the-traitors-review-claudia-winkleman-bbc-one-reality-show",
+         "urlToImage": "https://i.guim.co.uk/img/media/3449491f12b71a2352971351394b0ffae0d2f278/0_143_4285_2571/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=0d5d8628a703e255b73fa84bb131ba07",
+         "publishedAt": "2022-11-29T22:30:01Z",
+         "content": "The Traitors (BBC One) is the Highlands Hunger Games. It is terrible a pandering to our basest, most voyeuristic, atavistic instincts, an exercise in exquisite cruelty lasting 12 weeks. Youre going t\u2026 [+4410 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Guardian staff reporter",
+         "title": "Alaa Abd el-Fattah: family of activist jailed in Egypt say he is alive",
+         "description": "\u2018Proof of life\u2019 note says writer, who has been on hunger strike, is drinking water again, says sisterThe family of the jailed British-Egyptian writer and pro-democracy activist Alaa Abd el-Fattah say they have received confirmation that he is still alive.Conc\u2026",
+         "url": "https://www.theguardian.com/world/2022/nov/14/alaa-abd-el-fattah-family-of-activist-jailed-in-egypt-say-he-is-alive",
+         "urlToImage": "https://i.guim.co.uk/img/media/6c3175062b3edafc1895a136218c40c07cc83cb7/875_87_2535_1522/master/2535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc943658cea99474737fd627b1321159",
+         "publishedAt": "2022-11-14T12:26:42Z",
+         "content": "The family of the jailed British-Egyptian writer and pro-democracy activist Alaa Abd el-Fattah say they have received confirmation that he is still alive.\r\nConcerns had been growing after he stepped \u2026 [+1901 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Kalyeena Makortoff",
+         "title": "UK risks sleepwalking into food supply crisis, says farmers\u2019 union",
+         "description": "NFU warns farmers are struggling with soaring cost of fuel, fertiliser and feedThe government risks \u201csleepwalking\u201d into a food supply crisis unless it provides crucial support for British farmers struggling with the soaring cost of fuel, fertiliser and feed, \u2026",
+         "url": "https://www.theguardian.com/business/2022/dec/06/uk-food-supply-crisis-farmers-nfu-fuel-fertiliser-feed",
+         "urlToImage": "https://i.guim.co.uk/img/media/b0e7f2401aacf97a538ea5b0e59cc3457ec125e5/0_0_4681_2809/master/4681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebfbf3d95e10d4b2144d6eb56fbcedbb",
+         "publishedAt": "2022-12-06T08:14:34Z",
+         "content": "The government risks sleepwalking into a food supply crisis unless it provides crucial support for British farmers struggling with the soaring cost of fuel, fertiliser and feed, the National Farmers \u2026 [+2533 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "PA Media",
+         "title": "Jeremy Hunt: eating testicles in jungle is \u2018only job worse than being chancellor\u2019",
+         "description": "Comment comes as former health secretary Matt Hancock eats camel\u2019s penis on I\u2019m a Celebrity \u2026 Get Me Out of Here!Eating testicles in the jungle is the only job worse than being chancellor of the exchequer, Jeremy Hunt has said.His comment came as the nation w\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/12/jeremy-hunt-eating-testicles-in-jungle-is-only-job-worse-than-being-chancellor",
+         "urlToImage": "https://i.guim.co.uk/img/media/30e2efe8c3589995940c8121dfc5a01d194aa9f6/0_192_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90b0d6bad1b029a5abd43df7e7145c8b",
+         "publishedAt": "2022-11-12T20:45:45Z",
+         "content": "Eating testicles in the jungle is the only job worse than being chancellor of the exchequer, Jeremy Hunt has said.\r\nHis comment came as the nation watched former health secretary Matt Hancock eat par\u2026 [+1769 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Antony Beevor",
+         "title": "\u2018This is rock-star history!\u2019 \u2013 Antony Beevor on the gung-ho brilliance of SAS Rogue Heroes",
+         "description": "Rebels, renegades, repressed homosexuals, drunks, poets and a cross-dressing spy \u2026 the great historian is loving the BBC\u2019s thrillingly faithful account of the fighting force\u2019s origins \u2013 including its heavy metal soundtrack\u2022 Warning: contains minor spoilersI r\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/22/sas-rogue-heroes-antony-beevor-bbc-rebels-renegades-repressed-homosexuals-cross-dressing-spy",
+         "urlToImage": "https://i.guim.co.uk/img/media/5f380c5a2232a6abf61ec18b1539367cd679cabb/0_152_4170_2502/master/4170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e97729d3495e56a34fcdef0ac4807d1",
+         "publishedAt": "2022-11-22T15:05:11Z",
+         "content": "I really have to take my hat off to Steven Knight. The writer of Peaky Blinders has adapted Ben Macintyres SAS Rogue Heroes, theauthorised history of the Special Air Service, and turned it into the b\u2026 [+9834 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Patrick Wintour, diplomatic editor",
+         "title": "Iran protests: young boy among at least a dozen shot dead on night of turmoil",
+         "description": "Widespread protests lead to deaths in separate incidents as anger over Mahsa Amini transforms into wider protest against the regimeAs many as 15 people have been shot dead in Iran, including members of the security forces and a nine-year-old boy, in separate \u2026",
+         "url": "https://www.theguardian.com/world/2022/nov/17/iran-protests-young-boy-among-deaths-night-of-turmoil-mahsa-amini",
+         "urlToImage": "https://i.guim.co.uk/img/media/4471e37d77f9a76f8aa59ef0cafb377cdb3bbb91/0_342_5153_3093/master/5153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66d68638ebfdba4d444fb301853de032",
+         "publishedAt": "2022-11-17T06:47:04Z",
+         "content": "As many as 15 people have been shot dead in Iran, including members of the security forces and a nine-year-old boy, in separate incidents as the country experienced one of its most serious and widesp\u2026 [+4614 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Leila Latif",
+         "title": "How to Crack the Class Ceiling review \u2013 sadly, success means resembling Jacob Rees-Mogg",
+         "description": "Amol Rajan\u2019s meticulous two-part investigation into inclusivity in Britain is a heartbreaking, empathy-packed look at how society fails people from working class backgroundsA lot has changed since Amol Rajan\u2019s 2019 documentary How to Break into the Elite. We \u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/06/how-to-crack-the-class-ceiling-review-sadly-success-means-resembling-jacob-rees-mogg",
+         "urlToImage": "https://i.guim.co.uk/img/media/6fdc8227232a09ec98297918840d34f756c17aec/0_285_4281_2569/master/4281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=27261eea4d401d14912e7a7fcd172e0e",
+         "publishedAt": "2022-12-06T22:00:23Z",
+         "content": "A lot has changed since Amol Rajans 2019 documentary How to Break into the Elite. We have lived through a pandemic, Brexit, two monarchs, three prime ministers, and we have learned who Paul Mescal is\u2026 [+4403 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Guardian Staff",
+         "title": "Cherry Valentine remembered by Bimini",
+         "description": "30 November 1993 \u2013 18 September 2022The drag queen and star of RuPaul\u2019s Drag Race UK recalls the performer\u2019s \u2018natural empathy\u2019 and bravery in challenging preconceptions<ul><li>Mikhail Gorbachev remembered by Pavel Palazhchenko</li><li>Read the Observer\u2019s obit\u2026",
+         "url": "https://www.theguardian.com/culture/2022/dec/12/obituaries-2022-cherry-valentine-remembered-by-bimini",
+         "urlToImage": "https://i.guim.co.uk/img/media/b99897b00f48ba7af7be3757c9bcf032302de3ba/0_882_2877_1725/master/2877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1202ddc7b3e688ba8b5d9444814e0165",
+         "publishedAt": "2022-12-12T15:00:04Z",
+         "content": "When I first met Cherry I remember being slightly in awe: they walked into the Drag Race workroom in this black bodysuit with blood vein crystals and this giant headpiece and I just thought, This per\u2026 [+3425 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Simon Wardell",
+         "title": "Guillermo Del Toro\u2019s Pinocchio to Cow: the seven best films to watch on TV this week",
+         "description": "The multi Oscar-winning director serves up a wonderfully dark take on the puppet boy who wants to live, while the life of a dairy cow is turned into a moving and beautiful documentary Continue reading...",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/02/the-seven-best-films-to-watch-on-tv-this-week",
+         "urlToImage": "https://i.guim.co.uk/img/media/a5d4f7e12841a165c909ae274583779d1295d20a/354_0_3458_2076/master/3458.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6d59840a39271975bbe72f935b4958b",
+         "publishedAt": "2022-12-02T09:00:11Z",
+         "content": "Pick of the week\r\nGuillermo Del Toros Pinocchio\r\nThis stop-motion animated version of the fable is co-directed by Mark Gustafson, known for Wes Andersons Fantastic Mr Fox, so attention to detail is g\u2026 [+4780 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Stuart Jeffries",
+         "title": "Granite Harbour review \u2013 the best dressed cop double-act in TV history",
+         "description": "One corpse, multiple suspects and countless chic accessories: this gloriously gloomy whodunnit tries one last \u2013 surely the last? \u2013 variation on odd-couple detectivesWithout wishing to get too Taggart about this, there\u2019s been a murder. The body of energy compa\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/02/granite-harbour-review-bbc-one",
+         "urlToImage": "https://i.guim.co.uk/img/media/9370a361ed2aa688040e8312e3e74cfa1354ea7d/898_549_3564_2138/master/3564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=53727f38c7f4b5ae359d45ee7f83ee10",
+         "publishedAt": "2022-12-02T20:00:24Z",
+         "content": "Without wishing to get too Taggart about this, theres been a murder. The body of energy company executive Clellan Coburn has been found in the woods outside Aberdeen, and he had just announced a busi\u2026 [+4936 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Marina Hyde",
+         "title": "The psychic alpaca has spoken: World Cup madness has arrived for England | Marina Hyde",
+         "description": "Alongside the various animal attempts to people-please before the quarter-final against France are an increasingly deranged series of stunts from the tabloidsEngland face France in the World Cup quarter-final on Saturday and the dwindling band of psychic anim\u2026",
+         "url": "https://www.theguardian.com/football/2022/dec/09/psychic-alpaca-has-spoken-world-cup-madness-has-arrived-for-england-qatar-2022",
+         "urlToImage": "https://i.guim.co.uk/img/media/3b157a967afb1fa41761b2c0f923f7d592f4f622/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c5c48cafc22521964a11ca94106530de",
+         "publishedAt": "2022-12-09T18:03:47Z",
+         "content": "England face France in the World Cup quarter-final on Saturday and the dwindling band of psychic animals has spoken. In the early stages of any World Cup, of course, you cannot move for obliging crea\u2026 [+6706 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jack Seale",
+         "title": "\u2018I had really violent dreams\u2019: Happy Valley\u2019s stars on its brutal, explosive final season",
+         "description": "As one of the finest TV dramas of the 21st century prepares for its last ever series, we spoke to its stars and creator Sally Wainwright about brutality, sisterhood \u2013 and looking like Jesus\u2018I\u2019m just becoming the person I\u2019ve always wanted to be,\u201d says Sarah La\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/02/happy-valley-final-season-bbc-violent-dreams",
+         "urlToImage": "https://i.guim.co.uk/img/media/06d4445ad3e6b73f6e40ebd6f9fee0574bc7675b/0_0_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=009e0516f4f1c825191ff9636c56a5ec",
+         "publishedAt": "2022-12-02T15:00:18Z",
+         "content": "Im just becoming the person Ive always wanted to be, says Sarah Lancashires character, police officer Sgt Catherine Cawood, in the comeback episode of Happy Valley. I dont take shit off anyone any mo\u2026 [+8655 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Nelson Rauda Zablah",
+         "title": "Pegasus spyware was used to hack reporters\u2019 phones. I\u2019m suing its creators | Nelson Rauda Zablah",
+         "description": "When you\u2019re infected by Pegasus, spies effectively hold a clone of your phone \u2013 we\u2019re fighting backI was warned in August 2020. A source told me to meet him at six o\u2019clock at night in an empty parking lot in San Salvador. He had my number, but he contacted me\u2026",
+         "url": "https://www.theguardian.com/commentisfree/2022/dec/05/pegasus-spyware-journalists-phone-hacking-lawsuit",
+         "urlToImage": "https://i.guim.co.uk/img/media/a9086ac4b525a788c040749a0cae93eb93715575/0_223_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2b827b074d58f35e9080df083a0281a9",
+         "publishedAt": "2022-12-05T11:05:40Z",
+         "content": "I was warned in August 2020. A source told me to meet him at six oclock at night in an empty parking lot in San Salvador. He had my number, but he contacted me through a mutual acquaintance instead; \u2026 [+4235 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Alexi Duggins",
+         "title": "Jonny Irwin says he was axed as A Place in the Sun presenter due to terminal cancer",
+         "description": "Insurance issue related to diagnosis blamed for his removal from the Channel 4 show he fronted for 18 yearsTV presenter Jonnie Irwin has claimed that he was removed from hosting duties on Channel 4\u2019s property show A Place in the Sun due to having terminal can\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/24/jonny-irwin-says-he-was-axed-as-a-place-in-the-sun-presenter-due-to-terminal-cancer",
+         "urlToImage": "https://i.guim.co.uk/img/media/c7c43786d90586bdb365f2f833e845b082959701/0_7_4584_2750/master/4584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7a9146a78d6c16b453203ffbbd6c666",
+         "publishedAt": "2022-11-24T16:28:34Z",
+         "content": "TV presenter Jonnie Irwin has claimed that he was removed from hosting duties on Channel 4s property show A Place in the Sun because he had terminal cancer. He said the production company took the de\u2026 [+2957 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Laura Snapes",
+         "title": "LadBaby: YouTube duo attempt fifth Christmas UK No 1 for Trussell Trust",
+         "description": "Featuring financial guru Martin Lewis, the duo have covered Band Aid\u2019s Do They Know It\u2019s Christmas? with rewritten lyrics The YouTube performers LadBaby have launched their fifth bid to score the UK Christmas No 1 single.Mark and Roxanne Hoyle have covered th\u2026",
+         "url": "https://www.theguardian.com/music/2022/dec/12/ladbaby-youtube-duo-attempt-fifth-christmas-no-1-for-trussell-trust-martin-lewis-band-aid-do-they-know-its-christmas",
+         "urlToImage": "https://i.guim.co.uk/img/media/a582cfc2087094f3cfeba8f37933b3717d6356a9/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c07e15e1200057eba9ecad4c3325238",
+         "publishedAt": "2022-12-12T11:02:52Z",
+         "content": "The YouTube performers LadBaby have launched their fifth bid to score the UK Christmas No 1 single.\r\nMark and Roxanne Hoyle have covered the Band Aid classic Do They Know Its Christmas? to raise mone\u2026 [+2622 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Ali Martin in Islamabad",
+         "title": "Private equity firm \u2018makes \u00a3400m offer\u2019 for 75% stake in the Hundred",
+         "description": "<ul><li>Bridgepoint Group reported to have made the big bid</li><li>ECB chair has voiced caution on rights \u2018feeding frenzy\u2019</li></ul>English cricket has received a \u201c\u00a3400m private equity approach\u201d for a majority stake in the Hundred, a potentially gamechanging\u2026",
+         "url": "https://www.theguardian.com/sport/2022/nov/26/cricket-hundred-private-equity-offer-400-million",
+         "urlToImage": "https://i.guim.co.uk/img/media/54881bfadf7e5ce5faa277b0ea31c4884f735512/0_234_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ac7f7a21fdafaef6b64f58a7dca52ce5",
+         "publishedAt": "2022-11-26T13:12:44Z",
+         "content": "English cricket has received a \u00a3400m private equity approach for a majority stake in the Hundred, a potentially gamechanging moment for the sport. The offer for 75% of the sports newest competition h\u2026 [+2652 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Sam Jones in Madrid",
+         "title": "Report into Melilla deaths criticises \u2018widespread use of unlawful force\u2019",
+         "description": "Amnesty accuses Morocco and Spain of also failing to offer first aid after crush in which at least 37 diedThe \u201cwidespread use of unlawful force\u201d by Moroccan and Spanish authorities contributed to the deaths of at least 37 people who perished during a mass sto\u2026",
+         "url": "https://www.theguardian.com/world/2022/dec/13/report-melilla-deaths-criticises-widespread-unlawful-force-morocco-spain",
+         "urlToImage": "https://i.guim.co.uk/img/media/109ba1f5a93a9215694ff6f63b8e8ba0b5576ba2/0_360_8167_4901/master/8167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cb4d174e91f35127c8a3682f2a91c70",
+         "publishedAt": "2022-12-13T11:42:01Z",
+         "content": "The widespread use of unlawful force by Moroccan and Spanish authorities contributed to the deaths of at least 37 people who perished during a mass storming of the border fence between Morocco and Sp\u2026 [+3318 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Gwilym Mumford",
+         "title": "How vomiting became Hollywood\u2019s favourite party trick",
+         "description": "From Triangle of Sadness to Yellowjackets, no matter what you watch, everyone is being sick on screen \u2013 and it\u2019s starting to make me queasy Continue reading...",
+         "url": "https://www.theguardian.com/culture/2022/dec/02/the-guide-vomiting-in-tv-film",
+         "urlToImage": "https://i.guim.co.uk/img/media/a0663697a26f9d2d68d24ed09d8effe857133b1c/456_0_4453_2674/master/4453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1abcea620a6a28202bcde903aaa56f34",
+         "publishedAt": "2022-12-02T11:45:14Z",
+         "content": "A small content warning before we press ahead: this newsletter, or at least its opening portion, contains a LOT of mentions of vomiting. So if youre emetophobic or trying to enjoy your lunch in peace\u2026 [+9929 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jim Waterson Media editor",
+         "title": "ITV could drop news pledge unless ministers offer help against streamers",
+         "description": "Leaked government advice says ITV feels prominent channel positioning irrelevant as many bypass live TVITV could abandon its commitment to make news output if the government does not pass a law to protect British television channels from streaming services, a\u2026",
+         "url": "https://www.theguardian.com/media/2022/dec/06/itv-could-drop-news-pledge-unless-ministers-offer-help-against-streamers",
+         "urlToImage": "https://i.guim.co.uk/img/media/0740eee20cdc0a17a1f49ee0781f50cb5dd98a37/0_111_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35c285cdfa16a38479254a74814fc2b6",
+         "publishedAt": "2022-12-06T06:00:05Z",
+         "content": "ITV could abandon its commitment to make news output if the government does not pass a law to protect British television channels from streaming services, according to leaked guidance drawn up for mi\u2026 [+3964 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Christian Weaver",
+         "title": "Awaab Ishak\u2019s death shed light on a social housing scandal. Now we have a brief chance to fix it | Christian Weaver",
+         "description": "A two-year-old died after exposure to mould in his house in Rochdale. We must ensure no other family suffers like this<ul><li>Christian Weaver is a barrister and represented Awaab Ishak\u2019s family at the inquest</li></ul>Awaab Ishak\u2019s parents should be preparin\u2026",
+         "url": "https://www.theguardian.com/commentisfree/2022/nov/23/awaab-ishak-death-social-housing-mould-family",
+         "urlToImage": "https://i.guim.co.uk/img/media/b960c1c553f34c9feae79a8c06a90f86316a76c2/0_135_466_280/master/466.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ef67eb7da6a7d3218bf382894c6a2247",
+         "publishedAt": "2022-11-23T06:00:50Z",
+         "content": "Awaab Ishaks parents should be preparing for their sons fourth birthday. Instead, theyre mourning. Awaab died in 2020, aged only two, after prolonged exposure to mould in the house his parents rented\u2026 [+5214 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Lucy Mangan",
+         "title": "The Ice Cream Wars review \u2013 the gang crime that rocked Glasgow",
+         "description": "The criminals that terrorised Glasgow\u2019s ice-cream van drivers in the 70s are examined in this respectful documentary about the 1984 arson attack that killed a driver \u2013 and his entire familyLet us reach back in time to Scotland in the 1970s, when Glasgow\u2019s slu\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/23/the-ice-cream-wars-review-andrew-doyle-killers-1984-arson-attack-glasgow",
+         "urlToImage": "https://i.guim.co.uk/img/media/969570356bab8ecca9723e8e3e3e51cd2ce29f22/1623_830_2217_1330/master/2217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fac8061f86b39420bbd3b3f7a960b577",
+         "publishedAt": "2022-11-23T22:00:10Z",
+         "content": "Let us reach back in time to Scotland in the 1970s, when Glasgows slums were being cleared, tenements demolished and the inhabitants relocated to purpose-built housing schemes on the outskirts of tow\u2026 [+4359 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Guardian Staff",
+         "title": "Nicola Sturgeon is revealing an appalling naivety over trans rights | Observer letters",
+         "description": "Her plan would compromise the rights of women and undermine the safeguarding of childrenSonia Sodha is right to expose the ludicrous naivety at the heart of Nicola Sturgeon\u2019s reforms to the Gender Recognition Act in Scotland (\u201cSturgeon\u2019s plans to reform gende\u2026",
+         "url": "https://www.theguardian.com/global/commentisfree/2022/dec/04/observer-letters-nicola-sturgeon-transsexul-rights",
+         "urlToImage": "https://i.guim.co.uk/img/media/bdff3295eac930063c3689b3ebf565ccda846591/0_225_3375_2025/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=e4568ba6788ff181ab3616b04a5984a6",
+         "publishedAt": "2022-12-04T06:00:05Z",
+         "content": "Sonia Sodha is right to expose the ludicrous naivety at the heart of Nicola Sturgeons reforms to the Gender Recognition Act in Scotland (Sturgeons plans to reform gender law could leave Tories as the\u2026 [+6107 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Guardian sport",
+         "title": "Armchair guide: everything you need to know about England v France",
+         "description": "Seven Years\u2019 War, Hundred Years\u2019 War, Napoleonic Wars, Roy Keane v Brazil \u2026 expect more confrontation on Saturday nightIt\u2019s the defending champions, France, against the beaten Euro 2020 finalists, England, for a place in the World Cup semi-finals. Kick-off is\u2026",
+         "url": "https://www.theguardian.com/football/2022/dec/09/armchair-guide-everything-you-need-to-know-about-england-v-france",
+         "urlToImage": "https://i.guim.co.uk/img/media/c499213c5bac0b378bc83cbc928d1778523a3fd3/0_76_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2acd5c1e8fcc2b56f4d7d4957d1b1d46",
+         "publishedAt": "2022-12-09T10:30:38Z",
+         "content": "The match\r\nIts the defending champions, France, against the beaten Euro 2020 finalists, England, for a place in the World Cup semi-finals. Kick-off is at 7pm GMT; if its not over in 90 minutes extra \u2026 [+6864 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Rhik Samadder",
+         "title": "\u2018Radio talks to people, but TV talks at you\u2019: Greg James on silly stories, childhood sickness and his listener \u2018stars\u2019",
+         "description": "More people wake up with Greg James than anyone else. But how can he be so relentlessly chipper at 7am? Rhik Samadder meets the Radio 1 Breakfast hostAt 6am sharp, I am standing outside Broadcasting House, central London, under a still inky sky, feeling seasi\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/27/radio-talks-to-people-but-tv-talks-at-you-greg-james-radio-1-breakfast-dj",
+         "urlToImage": "https://i.guim.co.uk/img/media/cc76c50bbe250c658389fb7735fca4253da548b9/0_149_3984_2390/master/3984.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=8e2a5649dd5ffef4e6de90669aa06b0e",
+         "publishedAt": "2022-11-27T11:00:05Z",
+         "content": "At 6am sharp, I am standing outside Broadcasting House, central London, under a still inky sky, feeling seasick on dry land. Ive been up since 4.30am, my head full of wire wool. Im startled by the so\u2026 [+12985 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Catherine Bennett",
+         "title": "Indian gurus and holistic therapies: so much for \u2018down to earth\u2019 Camilla | Catherine Bennett",
+         "description": "Far from being a foil for her husband, the Queen Consort seems to have the same taste for hocus-pocusRecent stories from inside an Indian spa suggest that Camilla may be the most misunderstood royal of all. Is it possible for her to be, as advertised, thoroug\u2026",
+         "url": "https://www.theguardian.com/commentisfree/2022/nov/19/indian-gurus-and-holistic-therapies-so-much-for-down-to-earth-camilla",
+         "urlToImage": "https://i.guim.co.uk/img/media/c0b93884f7447ce7363d9155c6bfe8e5ce58c9a5/21_207_4979_2987/master/4979.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=ffaeeb7910a7cd7f75c1c8f0f555a1de",
+         "publishedAt": "2022-11-19T19:00:07Z",
+         "content": "Recent stories from inside an Indian spa suggest that Camilla may be the most misunderstood royal of all. Is it possible for her to be, as advertised, thoroughly no-nonsense and at the same time the \u2026 [+6226 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jack Seale",
+         "title": "You Won\u2019t Believe This review \u2013 Ellie Taylor\u2019s new gameshow is like Would I Lie to You \u2026 but tedious",
+         "description": "Twisty Bob Mortimer-esque yarns are nowhere to be found in this flat, awkward mishmash that pits tall tale-telling members of the public against ex-coppers for a cash prizeWould I Lie to You on BBC One \u2013 a great show! Everyone loves it: the concept of outrage\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/22/you-wont-believe-this-review-ellie-taylors-new-gameshow-is-like-would-i-lie-to-you-but-tedious",
+         "urlToImage": "https://i.guim.co.uk/img/media/c4e07c3adb8814ada84b7fde12525ed60bc2c693/4_206_2829_1697/master/2829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b2856ed2d43266ea1744bb954ff96612",
+         "publishedAt": "2022-11-22T23:05:42Z",
+         "content": "Would I Lie to You on BBC One a great show! Everyone loves it: the concept of outrageous yarns that may or may not be true lets celebrities display gifts for comic timing and talking off the cuff tha\u2026 [+4800 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Lucy Mangan",
+         "title": "Planet Sex With Cara Delevingne review \u2013 her masturbation scenes will send you cross-eyed with pleasure",
+         "description": "As the model watches porn and explores the orgasm gap, her wit and warmth make for a fun, female-centric documentary \u2013 far from the toe-curling experience you might expectI think we spoke a few days ago in another review, didn\u2019t we, about the beauty of low ex\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/01/planet-sex-with-cara-delevingne-review-bbc-three",
+         "urlToImage": "https://i.guim.co.uk/img/media/8796a06c9b560f0d139c311b3f83b4f986dab8eb/0_83_4041_2426/master/4041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=90a1313226099e1cab6017f6a8fc1c4a",
+         "publishedAt": "2022-12-01T22:45:00Z",
+         "content": "I think we spoke a few days ago in another review, didnt we, about the beauty of low expectations? Always either met and providing a satisfaction of sorts, or exceeded and providing a degree of actua\u2026 [+4343 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Mark Sweney and Rob Davies",
+         "title": "BrewDog loses its ethical B Corp certificate",
+         "description": "Status lost after BBC film and open letter from workers alleging \u2018culture of fear\u2019 at self-styled \u2018punk brewery\u2019Controversial beer brand BrewDog has lost its status as a B Corp less than two years after joining the scheme, which offers certification of a comp\u2026",
+         "url": "https://www.theguardian.com/business/2022/dec/01/brewdog-loses-its-ethical-b-corp-certificate",
+         "urlToImage": "https://i.guim.co.uk/img/media/8e767b19b359159d5e44eec66283718b66e95694/0_0_3403_2042/master/3403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d63380b452be18a5f736d6bb1cc1a9de",
+         "publishedAt": "2022-12-01T15:01:05Z",
+         "content": "Controversial beer brand BrewDog has lost its status as a B Corp less than two years after joining the scheme, which offers certification of a companys ethical commitment to the environment, communit\u2026 [+5219 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Shanti Das",
+         "title": "Stars come out to back famous Italian deli facing closure in London\u2019s Soho",
+         "description": "I Camisa has been battered by the pandemic and rising costs and is threatened with doom after almost a century of tradingFor decades, the I Camisa deli has been at the heart of the community in London\u2019s West End. Opened in 1929 by the Italian brothers Ennio a\u2026",
+         "url": "https://www.theguardian.com/uk-news/2022/dec/11/stars-come-out-to-back-famous-italian-deli-facing-closure-in-londons-soho",
+         "urlToImage": "https://i.guim.co.uk/img/media/e764bcb8e3f022378f5069b1e60bd95f0e621acd/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=44b7c47051367521d0561ec9cce85be2",
+         "publishedAt": "2022-12-11T10:00:30Z",
+         "content": "For decades, the I Camisa deli has been at the heart of the community in Londons West End. Opened in 1929 by the Italian brothers Ennio and Isidoro Camisa, the Soho institution sells speciality produ\u2026 [+5493 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Stuart Jeffries",
+         "title": "Predators review \u2013 Tom Hardy cuts out the hard man act for this look at cheetah gang war",
+         "description": "The Taboo actor narrates this conflict-packed wildlife documentary like an old-school thesp. Reading bedtime stories has clearly mellowed himOnly five years ago, Tom Hardy was the nation\u2019s mumbler in chief, baffling viewers as formidably butch top-hatted adve\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/11/predators-review-tom-hardy-cuts-out-the-hard-man-act-for-this-look-at-cheetah-gang-war",
+         "urlToImage": "https://i.guim.co.uk/img/media/f5933e22b879334f19c22df510af551143153486/0_400_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=882d569329675355b454ca240dd62136",
+         "publishedAt": "2022-12-11T22:00:43Z",
+         "content": "Only five years ago, Tom Hardy was the nations mumbler in chief, baffling viewers as formidably butch top-hatted adventurer Jack Delaney in the BBC drama Taboo. Some viewers were angry, while others \u2026 [+4928 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jack Seale",
+         "title": "Strike: Troubled Blood review \u2013 the show\u2019s real hook: will Robin and Strike finally get together?",
+         "description": "Never mind the murder investigation: the will-they won\u2019t-they relationship between the two detectives is the beating heart of this Robert Galbraith (AKA JK Rowling) adaptationAnother Sunday night, another crime drama based on a series of novels. Ah, but Strik\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/11/strike-troubled-blood-review-the-shows-real-hook-will-robin-and-strike-finally-get-together",
+         "urlToImage": "https://i.guim.co.uk/img/media/39b0a18aacbb51483ae4a257c7e03ada4fa95673/0_205_4415_2649/master/4415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b6d5d5f17b1f744ac6cb9c9230a8210f",
+         "publishedAt": "2022-12-11T22:00:43Z",
+         "content": "Another Sunday night, another crime drama based on a series of novels. Ah, but Strike (BBC One) cannot be like the others, because of the books author. Published under the name Robert Galbraith, the \u2026 [+4924 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Jack Seale",
+         "title": "Simon Schama\u2019s History of Now review \u2013 this highly personal show is simplistic and outdated",
+         "description": "The academic\u2019s look at truth, democracy and art has its heart very much in the right place. But too often it\u2019s fighting old battles rather than grasping the modern reality of untruths\u2018I came into the world to the soundtrack of history,\u201d says Simon Schama as h\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/27/simon-schamas-history-of-now-review-this-highly-personal-show-is-simplistic-and-outdated",
+         "urlToImage": "https://i.guim.co.uk/img/media/acc1bfa6d398bd83c5e0cc4c7ff18f6f53948ee3/1886_908_2706_1625/master/2706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=023a1fe343ecaac911e6b15cf04f0054",
+         "publishedAt": "2022-11-27T22:15:07Z",
+         "content": "I came into the world to the soundtrack of history, says Simon Schama as his new series begins, explaining that he was born on 13 February 1945, when Nazi rockets were falling on London and allied bo\u2026 [+5097 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Rebecca Nicholson",
+         "title": "I\u2019m An Alcoholic: Inside Recovery review \u2013 the first ever peek inside an AA meeting is hugely moving",
+         "description": "This candid chronicle of an Alcoholics Anonymous meeting is sensitive, impeccably balanced \u2013 and incredibly uplifting This has been quite a week for honest TV. As Channel 4 pushed boundaries by documenting the dissection of My Dead Body, so BBC Two is explori\u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/dec/07/im-an-alcoholic-inside-recovery-review-the-first-ever-peek-inside-an-aa-meeting-is-hugely-moving",
+         "urlToImage": "https://i.guim.co.uk/img/media/d46845ae8b13523e61c075da012b0025e915a2f9/213_0_2446_1468/master/2446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=caca61161fa3c1df8881ec705175b24a",
+         "publishedAt": "2022-12-07T22:00:35Z",
+         "content": "This has been quite a week for honest TV. As Channel 4 pushed boundaries by documenting the dissection of My Dead Body, so BBC Two is exploring another previously hidden arena, with Im an Alcoholic: \u2026 [+4407 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Aletha Adu and Jessica Elgot",
+         "title": "Sunak says higher taxes and spending cuts needed to satisfy markets",
+         "description": "UK PM and chancellor argue that financial markets have settled because they expect deep cuts to spendingThe prime minister and the chancellor have attempted to prepare the ground for a bleak autumn statement, saying that everybody should expect higher taxes a\u2026",
+         "url": "https://www.theguardian.com/uk-news/2022/nov/13/sunak-says-higher-taxes-and-spending-cuts-needed-to-satisfy-markets",
+         "urlToImage": "https://i.guim.co.uk/img/media/1dc3b7d3c0a8c042322c8bb08dc3940ad02ec9c8/0_226_6793_4076/master/6793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afe8e59b860be189586f77a8bfb00646",
+         "publishedAt": "2022-11-13T22:30:22Z",
+         "content": "The prime minister and the chancellor have attempted to prepare the ground for a bleak autumn statement, saying that everybody should expect higher taxes and arguing that financial markets were expec\u2026 [+5766 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "The Guardian"
+         },
+         "author": "Rebecca Nicholson",
+         "title": "David Baddiel: Jews Don\u2019t Count review \u2013 a doc so shocking it sounds like a siren",
+         "description": "In this fascinating and timely film, the comedian corners Jewish celebrities to discuss antisemitism \u2013 and David Schwimmer reveals he has \u2018never felt white, ever\u2019A year ago, David Baddiel made a documentary about social media and online trolling for the BBC. \u2026",
+         "url": "https://www.theguardian.com/tv-and-radio/2022/nov/21/david-baddiel-jews-dont-count-review-a-doc-so-shocking-it-sounds-like-a-siren",
+         "urlToImage": "https://i.guim.co.uk/img/media/783891e43863362bcd0b43689e0dc25b0945a21e/96_0_2858_1715/master/2858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=dcf0d4fe6a87ffdbc9d2115a3c9cb775",
+         "publishedAt": "2022-11-21T22:15:32Z",
+         "content": "A year ago, David Baddiel made a documentary about social media and online trolling for the BBC. Inevitably, Jews Dont Count (Channel 4) which is a much more robust film covers some of the same groun\u2026 [+4847 chars]"
+      }
+   ]
+}
